@@ -108,5 +108,3 @@ ffmpeg -hwaccel videotoolbox -i input.mp4 -c:v h264_videotoolbox -b:v 5M -pix_fm
 > 🧠 *本工具的核心目标是解决 iPad 通过 SMB 播放部分 MP4 文件时报错的问题。
 > 转码后的视频均遵循 Apple AVFoundation 兼容标准，播放稳定、传输顺畅。*
 
-```
-```
